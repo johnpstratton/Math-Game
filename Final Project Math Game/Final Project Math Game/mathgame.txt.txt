@@ -1,0 +1,7 @@
+Welcome to Math Game! You will soon be prompted to enter some data about yourself and then we'll get into the game.
+
+How to Play:
+
+You will navigate your way through three levels of arithmetic based questions that will increase in difficulty. 
+Complete all three levels and you can consider yourself an advanced.
+Good luck and have fun!

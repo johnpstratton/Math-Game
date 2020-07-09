@@ -1,0 +1,10 @@
+C:\Users\John.Stratton\Documents\CSC205\Final Project Math Game\Final Project Math Game\bin\Debug\Final Project Math Game.exe.config
+C:\Users\John.Stratton\Documents\CSC205\Final Project Math Game\Final Project Math Game\bin\Debug\Final Project Math Game.exe
+C:\Users\John.Stratton\Documents\CSC205\Final Project Math Game\Final Project Math Game\bin\Debug\Final Project Math Game.pdb
+C:\Users\John.Stratton\Documents\CSC205\Final Project Math Game\Final Project Math Game\obj\Debug\Final Project Math Game.csprojAssemblyReference.cache
+C:\Users\John.Stratton\Documents\CSC205\Final Project Math Game\Final Project Math Game\obj\Debug\Final Project Math Game.csproj.GenerateResource.cache
+C:\Users\John.Stratton\Documents\CSC205\Final Project Math Game\Final Project Math Game\obj\Debug\Final Project Math Game.csproj.CoreCompileInputs.cache
+C:\Users\John.Stratton\Documents\CSC205\Final Project Math Game\Final Project Math Game\obj\Debug\Final Project Math Game.exe
+C:\Users\John.Stratton\Documents\CSC205\Final Project Math Game\Final Project Math Game\obj\Debug\Final Project Math Game.pdb
+C:\Users\John.Stratton\Documents\CSC205\Final Project Math Game\Final Project Math Game\obj\Debug\Final_Project_Math_Game.MathGameForm.resources
+C:\Users\John.Stratton\Documents\CSC205\Final Project Math Game\Final Project Math Game\obj\Debug\Final_Project_Math_Game.MathGameWelcome.resources
